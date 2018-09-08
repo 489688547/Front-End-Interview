@@ -1,4 +1,6 @@
-* [What does a doctype do?](#What does a doctype do?)
+# HTML Questions
+
+* [What does a doctype do?](#what-does-a-doctype-do)
 * [How do you serve a page with content in multiple languages?](#How do you serve a page with content in multiple languages?)
 * [What kind of things must you be wary of when designing or developing for multilingual sites?](#What kind of things must you be wary of when designing or developing for multilingual sites?)
 * [Describe the difference between a cookie, sessionStorage and localStorage.](#Describe the difference between a cookie, sessionStorage and localStorage.)
@@ -6,7 +8,7 @@
 * [Have you used different HTML templating languages before?](#Have you used different HTML templating languages before?)
 
 </br>
-### What does a doctype do?
+### What does a `DOCTYPE` do?
 
 `DOCTYPE` is an abbreviation for "document type". It is a declaration used in HTML to distinguish between **standards mode** and **quirks mode** (old HTML and CSS). Its presence tells the browser to render the web page in standards mode.
 
